@@ -1,7 +1,7 @@
 .container1{
     background: url(/TablasDiv/Ejercicio18/img/f01.png) left bottom repeat-x,
-    url(/TablasDiv/Ejercicio18/img/f02.png) left bottom no-repeat,
-    url(/TablasDiv/Ejercicio18/img/f03.png) left top repeat-x;
+    url(/Tablas_Div/Ejercicio18/img/f02.png) left bottom no-repeat,
+    url(/Tablas_Div/Ejercicio18/img/f03.png) left top repeat-x;
     width: 160pt;
     height: 80pt;
     border-style: solid;
@@ -11,9 +11,9 @@
 .container2{
     margin-top: 20px;  
     margin-left: 15px;
-    background: url(/TablasDiv/Ejercicio18/img/f01.png) left bottom repeat-x,
-    url(/TablasDiv/Ejercicio18/img/f02.png) left bottom no-repeat,
-    url(/TablasDiv/Ejercicio18/img/f03.png) left top repeat-x;
+    background: url(/Tablas_Div/Ejercicio18/img/f01.png) left bottom repeat-x,
+    url(/Tablas_Div/Ejercicio18/img/f02.png) left bottom no-repeat,
+    url(/Tablas_Div/Ejercicio18/img/f03.png) left top repeat-x;
     width: 330pt;
     height: 250pt;
     border-style: solid;
@@ -23,8 +23,8 @@
 .container3{
     margin-top: 20px; 
     background: url(/TablasDiv/Ejercicio18/img/f01.png) left bottom repeat-x,
-    url(/TablasDiv/Ejercicio18/img/f02.png) left bottom no-repeat,
-    url(/TablasDiv/Ejercicio18/img/f03.png) left top repeat-x;
+    url(/Tablas_Div/Ejercicio18/img/f02.png) left bottom no-repeat,
+    url(/Tablas_Div/Ejercicio18/img/f03.png) left top repeat-x;
     width: 160pt;
     height: 80pt;
     border-style: solid;
