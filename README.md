@@ -29,6 +29,9 @@ https://edgarfalco.github.io/Tablas_Div/Ejercicio17/
 
 https://edgarfalco.github.io/Tablas_Div/Ejercicio18/
 
+![imagen](https://user-images.githubusercontent.com/56967437/156925092-0bbdb8a6-4eff-4396-b962-d2643a6a63b7.png)
+
+
 https://edgarfalco.github.io/Tablas_Div/Ejercicio19/
 
 ![imagen](https://user-images.githubusercontent.com/56967437/156924645-88a0f36c-5abd-4cbb-bac2-325914bff85f.png)
