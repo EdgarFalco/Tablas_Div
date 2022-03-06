@@ -1,0 +1,26 @@
+ul{
+    list-style: none;
+}
+
+#numeros{
+    list-style: decimal;
+}
+
+#letras{
+list-style: lower-latin;
+}
+
+#romanos{
+    list-style: upper-roman;
+}
+
+
+
+
+
+
+
+
+
+
+

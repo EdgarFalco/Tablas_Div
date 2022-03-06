@@ -1,0 +1,16 @@
+th{
+    font-weight: bolder;
+}
+
+table{    
+    border: rgb(0, 0, 0) 1px solid;       
+}
+
+td, th{
+    font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif, 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;    
+    border: rgb(0, 0, 0) 1px solid;    
+}
+
+td, #titulo{
+    background-color: rgb(250, 246, 246);
+}

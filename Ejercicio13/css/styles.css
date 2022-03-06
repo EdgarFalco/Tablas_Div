@@ -1,0 +1,47 @@
+body{
+    font-weight: bolder;
+}
+
+table{    
+    border: rgb(0, 0, 0) 1px solid;    
+    box-shadow: 5px 5px 0 #9a9a9b44;
+    width: 100%;    
+}
+
+h3{
+    font-size: small;
+    text-align: center;
+}
+
+td{
+    font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif, 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;    
+    border: rgb(0, 0, 0) 1px solid;    
+}
+
+#celda1{
+    text-align: center;
+    background-color: rgb(204, 233, 204);
+}
+
+#celda2{    
+    background-color: rgb(137, 217, 241);
+}
+
+#celda6{    
+    vertical-align: bottom;
+    text-align: right;
+    background-color: rgb(230, 184, 209);
+}
+
+#celda358{    
+    color: rgb(216, 24, 24);
+    text-align: center;
+}
+
+#celda47{
+    text-align: center;
+}
+
+
+
+

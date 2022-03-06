@@ -1,0 +1,31 @@
+table{    
+    border: rgb(182, 228, 241) 3px solid;    
+    box-shadow: 5px 5px 0 #9a9a9b44;
+}
+
+td, th{
+    font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif, 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;    
+    border: rgb(94, 70, 202) 2px solid;
+    
+}
+
+th{
+    background-color: rgb(20, 53, 20);
+    color: rgb(158, 199, 158);
+}
+
+td{
+    background-color: rgb(175, 212, 175);    
+}
+
+#ultima{
+    background-color: rgb(102, 156, 102);
+}
+
+.center{
+    text-align: center;
+}
+
+#ancho{
+    min-width: 200px;
+}

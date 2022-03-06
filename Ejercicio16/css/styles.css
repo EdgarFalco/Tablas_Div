@@ -1,0 +1,27 @@
+table{    
+    border: rgb(0, 0, 0) 1px solid;    
+    background:rgb(229, 231, 197) url('../img/gato.png') repeat;
+    background-size:50% 100%;      
+}
+
+td {
+    font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif, 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;    
+    border: rgb(0, 0, 0) 1px solid; 
+    text-align: center;
+    color: rgb(110, 20, 20);   
+}
+
+#titulo{
+    background-color: rgb(87, 161, 87);
+}
+
+#naranja{
+    background-color: rgb(212, 191, 152);
+}
+
+#amarillo{
+    background-color: rgb(228, 228, 153);
+}
+
+
+

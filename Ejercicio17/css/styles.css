@@ -1,0 +1,171 @@
+html{
+    background-image: url(/TablasDiv/Ejercicio17/img/ac.jpg);
+}
+
+.fila1{
+    height: 50%;
+    width: 720px;    
+    margin: auto;        
+}
+
+.fila2{
+    height: 50%;
+    width: 720px;    
+    margin: auto;
+    margin-top: 20px;     
+}
+
+.fila3{
+    height: 50%;
+    width: 720px;    
+    margin: auto;
+    margin-top: 20px; 
+}
+
+.a{
+    background-image: url(/TablasDiv/Ejercicio17/img/back_mantel.jpg);
+    height: 150px;
+    width: 150px;     
+    display:inline-block;  
+    margin-right: 20px;     
+     
+     
+}
+
+.b{          
+    background-clip: content-box;
+    height: 150px;
+    width: 150px;    
+    display:inline-block;
+    margin-right: 20px;
+    
+}
+
+.b2{
+    background-image: url(/TablasDiv/Ejercicio17/img/back_mantel.jpg);    
+    height: 115px;
+    width: 110px;    
+    margin: auto;
+}
+
+.c{
+    background-image: url(/TablasDiv/Ejercicio17/img/back_mantel.jpg);    
+    height: 150px;
+    width: 150px;         
+    background-size: 100%, 100%;
+    display:inline-block;
+    margin-right: 20px;
+}
+
+.d{       
+    height: 150px;
+    width: 150px;     
+    background-repeat: no-repeat;
+    background-size: 100%, 100%;      
+    background-origin: content-box; 
+    display:inline-block;
+    background-color: white;       
+}
+
+.d2{
+    background-image: url(/TablasDiv/Ejercicio17/img/back_mantel.jpg);        
+    height: 115px;
+    width: 110px; 
+    margin: auto;    
+}
+
+.e{
+    background-image: url(/TablasDiv/Ejercicio17/img/dh.jpg);
+    height: 150px;
+    width: 150px; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    display:inline-block;
+    margin-right: 20px;    
+}
+
+.f{    
+    height: 150px;
+    width: 150px;   
+    display:inline-block;
+    margin-right: 20px;
+    background-color: white;
+}
+
+.f2{
+    background-image: url(/TablasDiv/Ejercicio17/img/dh.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-origin: content-box;        
+    height: 115px;
+    width: 110px; 
+    margin: auto;
+}
+
+.g{
+    background-image: url(/TablasDiv/Ejercicio17/img/dh_2.jpg);
+    height: 150px;
+    width: 150px; 
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    margin-right: 20px;
+    background-color: white;
+}
+
+.h{
+    background-image: url(/TablasDiv/Ejercicio17/img/dh_3.jpg);
+    height: 150px;
+    width: 150px; 
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    margin-right: 20px;
+    background-color: white;
+}
+
+.i{
+    background:linear-gradient(to right, #d2ff52 0%, #566647 100%);
+    height: 150px;
+    width: 150px;     
+    display:inline-block;
+    margin-right: 20px;
+}
+
+.j{
+    background:linear-gradient(to bottom, rgba(240,183,161,1) 0%, rgba(140,51,16,1) 51%, rgba(192,110,78,1) 100%);
+    height: 150px;
+    width: 150px;     
+    display:inline-block;
+    margin-right: 20px;
+}
+
+.k{
+    background: linear-gradient(to top, rgba(50,116,45,1) 0%, rgba(239,239,210,1) 100%);
+    height: 150px;
+    width: 150px;     
+    display:inline-block;
+    margin-right: 20px;
+}
+
+.l{
+    background: linear-gradient(to top, rgba(50,116,45,1) 0%, rgba(239,239,210,0) 100%);
+    height: 150px;
+    width: 150px;     
+    display:inline-block;  
+}
+
+.a, .b, .c, .d,
+.e ,.f, .g, .h,
+.i, .j ,.k, .l{
+    border-style: solid;
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+
+
+

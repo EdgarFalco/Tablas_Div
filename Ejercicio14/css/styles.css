@@ -1,0 +1,39 @@
+table{    
+    border: rgb(0, 0, 0) 1px solid;    
+    box-shadow: 5px 5px 0 #9a9a9b44;
+    width: 50%;    
+    margin: auto;
+    position: absolute;
+    top: 25%;
+    left:25%;   
+}
+
+td, th{
+    text-align: center;
+    border: rgb(0, 0, 0) 1px solid;
+    font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif, 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+th{    
+    background-color: rgb(241, 241, 226);
+    font-weight: bolder;
+}
+
+td{    
+    background-color: rgb(241, 241, 193);       
+}
+
+.img{	
+	text-align:center;	
+}
+
+
+
+
+
+
+
+
+
+
+
