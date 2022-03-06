@@ -1,5 +1,5 @@
 .container1{
-    background: url(/TablasDiv/Ejercicio18/img/f01.png) left bottom repeat-x,
+    background: url(/Tablas_Div/Ejercicio18/img/f01.png) left bottom repeat-x,
     url(/Tablas_Div/Ejercicio18/img/f02.png) left bottom no-repeat,
     url(/Tablas_Div/Ejercicio18/img/f03.png) left top repeat-x;
     width: 160pt;
@@ -22,7 +22,7 @@
 }
 .container3{
     margin-top: 20px; 
-    background: url(/TablasDiv/Ejercicio18/img/f01.png) left bottom repeat-x,
+    background: url(/Tablas_Div/Ejercicio18/img/f01.png) left bottom repeat-x,
     url(/Tablas_Div/Ejercicio18/img/f02.png) left bottom no-repeat,
     url(/Tablas_Div/Ejercicio18/img/f03.png) left top repeat-x;
     width: 160pt;
